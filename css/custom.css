@@ -627,6 +627,9 @@ body {
     .nav-button {
         border: none;
     }
+    .navbar-toggler {
+        background-color: grey;
+    }
     .header-margin {
         padding-bottom: 0;
     }
